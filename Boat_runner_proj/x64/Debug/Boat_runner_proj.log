@@ -1,0 +1,43 @@
+﻿  Origine.cpp
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\header.hpp(267,20): warning C4099: 'Model': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\header.hpp(181): message : vedere la dichiarazione di 'Model'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\header.hpp(268,22): warning C4099: 'Texture': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\header.hpp(198): message : vedere la dichiarazione di 'Texture'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\header.hpp(269,23): warning C4099: 'Pipeline': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\header.hpp(229): message : vedere la dichiarazione di 'Pipeline'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\header.hpp(270,34): warning C4099: 'DescriptorSetLayout': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\header.hpp(221): message : vedere la dichiarazione di 'DescriptorSetLayout'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\header.hpp(271,28): warning C4099: 'DescriptorSet': il nome del tipo che in precedenza utilizzava 'struct' ora utilizza 'class'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\header.hpp(250): message : vedere la dichiarazione di 'DescriptorSet'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\header.hpp(1312,1): warning C4267: 'argomento': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\header.hpp(1509,41): warning C4267: 'argomento': conversione da 'size_t' a '_Ty'. Possibile perdita di dati.
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\header.hpp(1803,48): warning C4267: '=': conversione da 'size_t' a 'uint32_t'. Possibile perdita di dati.
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(55,31): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(57,38): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(59,37): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(61,31): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(63,30): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(969,1): warning C4305: 'argomento': troncamento da 'double' a 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(1085,30): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(1097,30): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(1138,51): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(1166,1): warning C4305: '=': troncamento da 'double' a 'float'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(1172,1): warning C4305: '=': troncamento da 'double' a 'float'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(1176,1): warning C4305: '=': troncamento da 'double' a 'float'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(1200,1): warning C4305: '=': troncamento da 'double' a 'float'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(1211,1): warning C4305: '=': troncamento da 'double' a 'float'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(1215,1): warning C4305: '=': troncamento da 'double' a 'float'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(1260,1): warning C4305: '=': troncamento da 'double' a 'float'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(1264,1): warning C4305: '=': troncamento da 'double' a 'float'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(1270,1): warning C4305: '=': troncamento da 'double' a 'float'
+C:\Users\dmanf\source\repos\Boat_runner_proj\Boat_runner_proj\Origine.cpp(1274,1): warning C4305: '=': troncamento da 'double' a 'float'
+LINK : warning LNK4098: la libreria predefinita 'MSVCRT' è in conflitto con l'utilizzo di altre librerie; usare /NODEFAULTLIB:libreria
+  Boat_runner_proj.vcxproj -> C:\Users\dmanf\source\repos\Boat_runner_proj\x64\Debug\Boat_runner_proj.exe
